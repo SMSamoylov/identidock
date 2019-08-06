@@ -1,4 +1,5 @@
-# identidock
-*** Automatic build for identidock ***
+identidock
+
+Automatic build for identidock
 
 
